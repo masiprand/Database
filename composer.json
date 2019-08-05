@@ -1,0 +1,13 @@
+{
+    "name": "involve/database",
+    "description": "database driver and query",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mas iprand",
+            "email": "masiprand@gmail.com"
+        }
+    ],
+    "require": {}
+}
