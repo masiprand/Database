@@ -9,5 +9,10 @@
             "email": "masiprand@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Involve\\Database\\": "src/"
+      }
+    }
 }
